@@ -18,3 +18,11 @@
   <img align="center" alt="visualstudeocode" height="30" width="auto" src="https://user-images.githubusercontent.com/75697499/175381451-1d5de1dd-8bd8-4599-93e1-9ff7a7994ba1.svg">
 
 </div>
+
+----------------------------------------------------------------------------------
+
+## :earth_americas: &nbsp;Onde me encontrar:
+
+  <a href="https://www.linkedin.com/in/brunocatan/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:brunohcatan96@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  

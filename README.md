@@ -1,7 +1,7 @@
 ## 👋 <i>Oi, Eu sou Bruno Catan!</i>
 
 - 🏡 <i>Sou do interior de São Paulo, Brasil.</i>
-- 🎓 <i>Sou desenvolvedor Front end.</i>
+- 🎓 <i>Sou um desenvolvedor Front end.</i>
 - 📤 <i>Metas: Criar novos projetos e saber mais.</i>
 
 ----------------------------------------------------------------------------------

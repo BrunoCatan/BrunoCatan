@@ -14,6 +14,7 @@
   <img align="center" alt="html" height="30" width="auto" src="https://user-images.githubusercontent.com/75697499/175380125-8e4b884c-d9dc-4c25-b9bf-46d84262d95e.svg">
   <img align="center" alt="css" height="30" width="auto" src="https://user-images.githubusercontent.com/75697499/175381201-687c9be5-1dd9-4605-a61e-17a576cee52c.svg">
   <img align="center" alt="javascript" height="30" width="auto" src="https://user-images.githubusercontent.com/75697499/175381334-bf332378-1de1-4c84-a6fd-b309a4658f2f.svg">
+  <img align="center" alt="bootstrap" height="30" width="auto" src="https://user-images.githubusercontent.com/75697499/175381677-9fca98f2-be69-46cb-b8aa-db7344e61706.svg">
   <img align="center" alt="visualstudeocode" height="30" width="auto" src="https://user-images.githubusercontent.com/75697499/175381451-1d5de1dd-8bd8-4599-93e1-9ff7a7994ba1.svg">
 
 </div>

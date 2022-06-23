@@ -2,7 +2,6 @@
 
 - 🏡 <i>Sou do interior de São Paulo, Brasil.</i>
 - 🎓 <i>Sou desenvolvedor Front end.</i>
-- 📚 <i>Atualmente estou aprendendo tudo que posso.</i>
 - 📤 <i>Metas: Criar novos projetos e saber mais.</i>
 
 ----------------------------------------------------------------------------------

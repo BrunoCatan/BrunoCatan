@@ -1,13 +1,13 @@
-## 👋 Oi, Eu sou Bruno Catan!
+## 👋 <i>Oi, Eu sou Bruno Catan!</i>
 
-- 🏡 Sou do interior de São Paulo, Brasil.
-- 🎓 Sou desenvolvedor Front end.
-- 📚 Atualmente estou aprendendo tudo que posso.
-- 📤 Metas: Criar novos projetos e saber mais.
+- 🏡 <i>Sou do interior de São Paulo, Brasil.</i>
+- 🎓 <i>Sou desenvolvedor Front end.</i>
+- 📚 <i>Atualmente estou aprendendo tudo que posso.</i>
+- 📤 <i>Metas: Criar novos projetos e saber mais.</i>
 
 ----------------------------------------------------------------------------------
 
-## :rocket: &nbsp;Minhas Skills
+## :rocket: &nbsp;<i>Minhas Skills</i>
 
 <i>Linguagens e Ferramentas</i>
 <div style="display: inline_block">
@@ -21,7 +21,7 @@
 
 ----------------------------------------------------------------------------------
 
-## :earth_americas: &nbsp;Onde me encontrar:
+## :earth_americas: &nbsp;<i>Onde me encontrar:</i>
 
  
   <a href="https://www.linkedin.com/in/brunocatan/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 

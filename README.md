@@ -34,3 +34,7 @@
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=brunocatan&hide_title=true&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunocatan&hide_title=true&layout=compact&langs_count=7&theme=dark"/>
 </div><br>
+
+----------------------------------------------------------------------------------
+
+![github-contribution-grid-snake](https://user-images.githubusercontent.com/75697499/176289267-682a9982-8776-4223-ad42-34a4553eb56f.svg)

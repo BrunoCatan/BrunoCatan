@@ -2,7 +2,7 @@
 
 - 🏡 <i>Sou do interior de São Paulo, Brasil.</i>
 - 🎓 <i>Sou um desenvolvedor Front end.</i>
-- 📤 <i>Metas: Criar novos projetos e saber mais.</i>
+- 📤 <i>Metas: Criar novos projetos e evoluir.</i>
 
 ----------------------------------------------------------------------------------
 
@@ -14,8 +14,12 @@
       <img align="center" alt="html" height="70" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
       <img align="center" alt="css" height="70" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
       <img align="center" alt="javascript" height="70" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
+      <img align="center" alt="jquery" height="70" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" />
+      <img align="center" alt="jquery" height="70" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />          
       <img align="center" alt="bootstrap" height="70" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg">  
-       <img align="center" alt="bootstrap" height="70" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+      <img align="center" alt="react" height="70" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+      <img align="center" alt="git" height="70" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
+      <img align="center" alt="github" height="70" width="auto" src="https://img.icons8.com/ios-glyphs/70/696969/github.png" />          
       <img align="center" alt="visualstudeocode" height="70" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg">
    </div>
 </div>
